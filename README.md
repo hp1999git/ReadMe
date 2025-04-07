@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rohan Mudgalkar</h1>
-<h3 align="center">Analytically minded self starter with a strong passion for data science and analytics</h3>
+<h1 align="center">Hello there 👋, I'm Harshil Patel</h1>
+<h3 align="center">Industry-agnostic Advanced Analytics Specialist with three years of experience in IT Consulting, Healthcare, Sustainability, Real Estate, and AI</h3>
 <img align="right" alt="Coding"  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width=200>
 
 
