@@ -7,9 +7,9 @@
 
 
 - 🔭 I’m currently working as a Technology Consultant at Virgent.AI
-- :closed_book: I have graduated from the University of Illinois Urbana Champaign.
-- 👨‍💻 All of my projects are available [here](https://github.com/Rohan9920?tab=repositories)
-- 📫 Reach out to me at **rohan.mudgalkar@gmail.com**
+- :closed_book: I have graduated with a masters degree from University of Maryland, majoring in Management Information Systems
+- 👨‍💻 ?
+- 📫 Reach out to me at **harshildeepakpatel@gmail.com**
 
 ## Connect with me: ##
 <p align="left">
