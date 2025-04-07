@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working as a Data Scientist at **Bayer**
+- 🔭 I’m currently working as a Technology Consultant at Virgent.AI
 - :closed_book: I have graduated from the University of Illinois Urbana Champaign.
 - 👨‍💻 All of my projects are available [here](https://github.com/Rohan9920?tab=repositories)
 - 📫 Reach out to me at **rohan.mudgalkar@gmail.com**
